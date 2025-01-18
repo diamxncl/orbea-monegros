@@ -104,7 +104,7 @@ Los tests verifican la funcionalidad de los módulos principales del proyecto.
 ## Cobertura de tests
 Para verificar la cobertura de los tests, puedes ejecutar:
 ```bash
-pytest --cov=orbea_monegros tests/
+pytest tests/
 ```
 
 ## Licencia
